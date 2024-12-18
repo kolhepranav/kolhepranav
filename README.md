@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 
 <head>
-  <meta name="google-site-verification" content="zFmwrJdTTl3LcITgbaue2XbkScUELPjzCBTLS1snRXM" />
+ <meta name="google-site-verification" content="zFmwrJdTTl3LcITgbaue2XbkScUELPjzCBTLS1snRXM" />
 </head>
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">"BinaryDreams: Weaving the Future with Lines of Code"</h3>
