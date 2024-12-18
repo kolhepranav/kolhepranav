@@ -3,16 +3,17 @@
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">"BinaryDreams: Weaving the Future with Lines of Code"</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<!-- <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+
 
 
 ## 💫 About Me:
 🛠️ I’m currently working on: Solving real-world problems by building scalable, innovative, and impactful web and AI-powered solutions.<br>🤝 I’m looking to collaborate on: Full-stack development projects, hackathons, and AI-powered solutions.<br>🧠 I’m looking for help with: Optimizing ML models and exploring advanced DevOps tools.<br>🌱 I’m currently learning: Cloud technologies, DevOps practices, and generative AI customization.<br>💬 Ask me about: Winning 5 hackathons, scalable web apps, and stunning UI/UX designs.<br>⚡ Fun fact: I’ve led projects blending tech and creativity, winning national recognition.
-
+</br> </br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav__kolhe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-kolhe-653816205/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Pranav_Kolhe_) 
-
+</br></br>
 # 💻 Tech Stack</hr>
 
 ## 🧑‍💻 Frontend </hr>
@@ -24,7 +25,7 @@
 ## 🛠️ DevOps </hr>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 
-
+</br></br>
 <!-- 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -46,16 +47,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=kolhepranav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true) </br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kolhepranav&theme=github_dark_dimmed&hide_border=false) </br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolhepranav&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-
+</br></br>
 
 # Github Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kolhepranav&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</br></br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kolhepranav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</br></br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</br></br>
 
 <!--
 ### 🔝 Top Contributed Repo
