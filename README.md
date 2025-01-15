@@ -11,6 +11,8 @@
 🛠️ I’m currently working on: Solving real-world problems by building scalable, innovative, and impactful web and AI-powered solutions.<br>🤝 I’m looking to collaborate on: Full-stack development projects, hackathons, and AI-powered solutions.<br>🧠 I’m looking for help with: Optimizing ML models and exploring advanced DevOps tools.<br>🌱 I’m currently learning: Cloud technologies, DevOps practices, and generative AI customization.<br>💬 Ask me about: Winning 5 hackathons, scalable web apps, and stunning UI/UX designs.<br>⚡ Fun fact: I’ve led projects blending tech and creativity, winning national recognition.
 </br> </br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhepranav&label=Profile%20views&color=0e75b6&style=flat" alt="kolhepranav" /> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pranav__kolhe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kolhe-653816205/) 
 
